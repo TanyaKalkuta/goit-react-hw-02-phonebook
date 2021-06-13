@@ -1,0 +1,23 @@
+.contacts_form {
+  border: 1px solid black;
+  display: inline-block;
+  width: 350px;
+  padding: 20px;
+}
+
+.form_button {
+  margin-top: 30px;
+  border-radius: 5px;
+}
+.label {
+  font-weight: bold;
+  display: block;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.input {
+  display: block;
+  margin-top: 10px;
+  width: 200px;
+}
